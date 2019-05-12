@@ -1,0 +1,17 @@
+{
+  "name": "EC2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.453.0",
+    "express": "^4.16.4",
+    "uuid": "^3.3.2"
+  }
+}
